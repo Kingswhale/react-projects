@@ -16,14 +16,15 @@ const List = ({ people, setPeople }) => {
             <div>
               <h4>{name}</h4>
               <p>{age} years</p>
+              <button
+                className='btn'
+                type='button'
+                onClick={() => handleRemove(id)}
+                className='btn'
+              >
+                Remove
+              </button>
             </div>
-            <button
-              type='button'
-              onClick={() => handleRemove(id)}
-              className='btn'
-            >
-              Remove
-            </button>
           </article>
         )
       })}
