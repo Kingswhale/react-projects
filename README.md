@@ -2,7 +2,7 @@
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
 
-#### All Projects
+#### All Projects to practics
 
 [Projects Site](https://react-projects.netlify.app/)
 
