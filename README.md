@@ -1,4 +1,4 @@
-#### Haven complete the tutorial I deem it fit to complete the project as I plan to take project in react.
+#### Haven complete the tutorial I deem it fit to complete the following project as I plan to take project in react.
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
 
